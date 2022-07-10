@@ -43,6 +43,7 @@ title: Requirements
 - [ ] The collected data must be stored accessible and persistent.
 - [ ] Edge sensors (f.e. temperature sensors) must be integrated so they can be exchanged or extended easily.
 - [ ] Users must authenticate before using the application.
+- [ ] The application must work without internet connection.
 - [ ] The application should provide users the option to share their brewing processes publicly or privately.
 
 ## Quality of Service
@@ -79,3 +80,5 @@ Depending on the classification of changing requirement, different processes sho
 For severe external as well as external changes the project team should decide how to incorporate the change immediately.
 For less severe changes the team should decide after the current iteration.
 For non severe changes individuals or the team in charge of the effected part of the application may decide.
+
+Potential changes might come from covering other "markets" in terms of localization. F.e. for US usage, the units and calculations need to be adapted. Moreover, some speciality beer styles might require special types of ingredients (flavoring) or additional steps (dry-hopping).
