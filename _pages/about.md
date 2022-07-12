@@ -5,3 +5,4 @@ permalink: /about/
 ---
 
 This project is developed by Fabian Kainz.
+Happy to have you here.
